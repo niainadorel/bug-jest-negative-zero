@@ -1,0 +1,23 @@
+{
+  "name": "bug-jest-negative-zero",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niainadorel/bug-jest-negative-zero.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niainadorel/bug-jest-negative-zero/issues"
+  },
+  "homepage": "https://github.com/niainadorel/bug-jest-negative-zero#readme",
+  "dependencies": {
+    "jest": "^28.1.3"
+  }
+}
